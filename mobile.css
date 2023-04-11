@@ -63,6 +63,14 @@ nav h5 {
   background-color: #c6e8d6;
 }
 
+.mid-section4 {
+  height: 80vh; 
+  align-items: center; 
+  background-color: #3abe78;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  }
 
 .abtlogo {
     position: absolute;
